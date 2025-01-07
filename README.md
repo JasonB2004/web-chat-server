@@ -1,4 +1,4 @@
-# Assignment 02 - Web Chat Server
+# Web Chat Server
 
 ## Project Information
 
@@ -6,20 +6,12 @@ Chat Server is a simple chat application that allows users to create chat rooms 
 Users can create chat rooms, join chat rooms, and send messages to other users in the chat room.
 The application is built using Java EE, Maven and WebSocket.
 
-### Group Members
-
-- Abdul Rahim Mohsin
-- Rania Rejdal
-- Adlene Oudahmane
-- Jason Badwal
-
 ### Application Images
 ![ChatServerScreenshot](chatServerScreenshot.png)
 #### Chat Server Page Screenshot
 
 ![AboutScreenshot](aboutScreenshot.png)
 #### About Page Screenshot
-
 
 ## Improvements
 
@@ -38,7 +30,6 @@ The following improvements have been made to the interface and interaction funct
 * **Load Previous Chat Log History**: When a user enters a chat room, any previous chat history in that room is loaded and displayed.
 
 ## How to Run
-
 Follow these steps to clone and run the application:
 
 1. Clone the repository: git clone https://github.com/OntarioTech-CS-program/w24-csci2020u-assignment02-mohsin.git
@@ -48,12 +39,3 @@ Follow these steps to clone and run the application:
 5. Run the project to open the Chat Server application in your web browser
 6. Create a chat room or Refresh and join Existing Chat room
 7. Start by enter username and begin to chat with other users in the chat room!
-
-
-## Contribution Report
-
-- Abdul Rahim Mohsin - 25%
-- Rania Rejdal - 25%
-- Adlene Oudahmane - 25%
-- Jason Badwal - 25%
-#### * Note: All group members contributed equally to the project.
